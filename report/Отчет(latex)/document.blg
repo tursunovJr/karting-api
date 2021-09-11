@@ -1,0 +1,21 @@
+[0] Config.pm:312> INFO - This is Biber 2.15
+[0] Config.pm:315> INFO - Logfile is 'document.blg'
+[112] biber-MSWIN32:330> INFO - === 
+[132] Biber.pm:415> INFO - Reading 'document.bcf'
+[248] Biber.pm:952> INFO - Found 7 citekeys in bib section 0
+[266] Biber.pm:4334> INFO - Processing section 0
+[280] Biber.pm:4523> INFO - Looking for bibtex format file 'lib.bib' for section 0
+[300] bibtex.pm:1682> INFO - LaTeX decoding ...
+[310] bibtex.pm:1494> INFO - Found BibTeX data source 'lib.bib'
+[318] Utils.pm:395> WARN - I didn't find a database entry for 'flask' (section 0)
+[318] Utils.pm:395> WARN - I didn't find a database entry for 'pycharm' (section 0)
+[318] Utils.pm:395> WARN - I didn't find a database entry for 'postman' (section 0)
+[318] Utils.pm:395> WARN - I didn't find a database entry for 'yatank' (section 0)
+[318] Utils.pm:395> WARN - I didn't find a database entry for 'gitlab' (section 0)
+[327] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[327] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[327] Biber.pm:4162> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'ru-RU'
+[327] Biber.pm:4168> INFO - No sort tailoring available for locale 'ru-RU'
+[335] bbl.pm:651> INFO - Writing 'document.bbl' with encoding 'UTF-8'
+[337] bbl.pm:754> INFO - Output to document.bbl
+[337] Biber.pm:128> INFO - WARNINGS: 5

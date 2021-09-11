@@ -1,0 +1,28 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {russian}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Введение}{4}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Основная часть}{5}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Декомпозиция функциональной части}{5}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Командная разработка}{6}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Архитектура программно-аппаратного комплекса}{6}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Сервис хранения данных маршрутов}{7}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}База данных}{8}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Используемые инструменты и технологии веб-приложения}{9}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Системные характеристики}{10}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8}Модульное тестирование}{10}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9}Нагрузочное тестирование}{11}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Заключение}{14}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Список литературы}{15}{}%
