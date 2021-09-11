@@ -1,0 +1,6 @@
+# PyCharm idle files
+.idea/
+__pycache__/
+
+# Sqlite database
+*.sqlite
